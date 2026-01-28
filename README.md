@@ -1,2 +1,3 @@
-# AWS-Examples
-A codebase of all the AWS examples used through the AWS Certification Study Courses.
+## Preface 
+I would like a moment to thank the Lord, my wife, and all of my other loved ones and dear friends who have always supported me along the way. This is my place holder introduction, if you are reading this now... This is much more to come.
+You’re reading the first line of what I am hoping is (and claiming to be) the most unique IT/cyber related portfolio. Notice i didn’t say interesting or entertaining? I’m writing this with a surging need to impress others compounded with a deep rooted understanding of this journey is all about serving the Lord and not my ego. My goal is to stand out. Not because I claim to know everything, nor because I am some self-proclaimed trail blazer in this realm*. My goal is to stand out because I don’t know everything. In all reality, I feel I know so little and I’m not hiding it as much as I am owning it.
