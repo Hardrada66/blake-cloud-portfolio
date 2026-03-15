@@ -1,4 +1,4 @@
-# Blake Scola — Cloud Security Portfolio
+# Blake Scola — Cloud Security Portfolio.
 
 ## Preface 
 SOC analyst transitioning into cloud security through hands-on AWS projects, IAM architecture, automation, and security-focused engineering.
