@@ -1,4 +1,4 @@
-# Instructions
+# Instructions.
 
 I want to do one short IAM project for aws. I want to get in, build something I can learn and do for myself (understood I have like zero understanding of aws and I’ll be doing this with a friend who is not in IT) 
 
